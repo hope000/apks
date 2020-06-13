@@ -4,6 +4,7 @@
 # Hugo-defined variables
 #baseURL       = "hddps://example.com"
 baseURL       = "https://hope000.github.io/apks/"
+#baseURL       = "/apks/"
 #baseURL       = "/"
 
 timeout       = 30000
