@@ -9,7 +9,8 @@ baseURL       = "https://hope000.github.io/apks/"
 
 timeout       = 30000
 
-title         = "https://apksa.chindsf.org"
+#title         = "https://apksa.chindsf.org"
+title         = "https://hope000.github.io/apks/"
 theme         = [ "hugo-theme-w3css-basic","dyn-theme-shortcodes" ]
 languageCode  = "en-us"
 #languageCode  = "de-ch"
